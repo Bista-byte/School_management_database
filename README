@@ -1,0 +1,25 @@
+# School Management Database
+
+A simple C++ project implementing a school management database using SQLite. This project demonstrates basic database operations such as creating tables, inserting records, and querying student data.
+
+## Features
+
+- Add, update, and manage student records
+- SQLite database integration
+- Cross-platform build using CMake
+- Modular design with separate database and student classes
+
+## Prerequisites
+
+- C++ compiler (C++11 or higher)
+- [SQLite](https://www.sqlite.org/index.html)
+- [CMake](https://cmake.org/)
+
+## Getting Started
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/Bista-byte/School_management_database.git
+cd School_management_database
+```
