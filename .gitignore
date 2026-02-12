@@ -1,0 +1,31 @@
+# Build folders
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/Makefile
+*.cmake
+*.ninja
+/ninja-*
+
+# Compiled files / binaries
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# SQLite database files (optional)
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE / editor configs
+.vscode/
+.idea/
+*.user
+*.suo
+*.swp
+*.DS_Store
+
+# Temporary files
+*.tmp
