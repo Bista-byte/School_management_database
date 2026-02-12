@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.10)
+project(SQLiteProject)
+
+#set c++ standard
+set(CMAKE_CXX_STANDARD 17)
+
+#executable files
+add_executable(main main.cpp SQL/sqlite3.c)
+
+target_include_directories(main PRIVATE SQL)

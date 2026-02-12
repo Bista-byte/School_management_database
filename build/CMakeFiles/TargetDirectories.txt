@@ -1,0 +1,3 @@
+C:/Users/bista/OneDrive/Desktop/Projects/C++_Projects/build/CMakeFiles/main.dir
+C:/Users/bista/OneDrive/Desktop/Projects/C++_Projects/build/CMakeFiles/edit_cache.dir
+C:/Users/bista/OneDrive/Desktop/Projects/C++_Projects/build/CMakeFiles/rebuild_cache.dir
