@@ -120,7 +120,7 @@ int main(void)
     string filename = "School_file";
     Person person(filename);
 
-    person.insert_person(15, 10, "Bob", "2002/1/1", "teacher", "bistashasha@gmail.com");
+    person.insert_person(15, 10, "Bob", "2002/1/1", "teacher", "muji@gmail.com");
     person.insert_person(15, 10, "Sam", "2003/1/1", "student", "samshasha@gmail.com");
 
     // Query and print all students
